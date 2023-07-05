@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jok3r</h1>
-<h3 align="center">A Software Engineer from Greece</h3>
+<h3 align="center">A passionate Developer lol</h3>
 
 - 📫 How to reach me **jokerwtf on discord.**
 
