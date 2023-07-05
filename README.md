@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jok3r</h1>
 <h3 align="center">A passionate Developer lol</h3>
 
-- 📫 How to reach me **jokerwtf on discord.**
+<p align="center" - 📫 How to reach me **jokerwtf on discord.**>
 
 
 <p align="center">
